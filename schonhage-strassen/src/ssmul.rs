@@ -86,8 +86,6 @@ pub fn ssmul<F: ark_ff::PrimeField>(a: &DensePolynomial<F>, b: &DensePolynomial<
 
     // Initialize FFT Field
 
-    
-
 
 
 }
