@@ -1,0 +1,3 @@
+mod ssmul;
+
+fn main() {}
